@@ -34,19 +34,20 @@
 - 프로미스와 콜백을 사용가능하다.
 
 - Mongoose사용
- 1. 연결
-   <img width="426" alt="스크린샷 2021-11-19 오후 1 00 02" src="https://user-images.githubusercontent.com/80023108/142562714-e041f8b7-5ada-4b2f-9728-528db4fc8810.png">
+1. 연결
+<img width="426" alt="스크린샷 2021-11-19 오후 1 00 02" src="https://user-images.githubusercontent.com/80023108/142562714-e041f8b7-5ada-4b2f-9728-528db4fc8810.png">
 
 2. 스키마 생성 : MongoDB는 스키마가 없지만 Mongoose에서는 스키마를 정의할 수 있다. 컬렉션의 각 필드를 정의해주는 객체
-   <img width="853" alt="스크린샷 2021-11-19 오후 1 02 58" src="https://user-images.githubusercontent.com/80023108/142562922-7fae0e49-8b66-49e1-b482-3d93c6831943.png">
+<img width="853" alt="스크린샷 2021-11-19 오후 1 02 58" src="https://user-images.githubusercontent.com/80023108/142562922-7fae0e49-8b66-49e1-b482-3d93c6831943.png">
 
 3. 모델 생성 : 스키마를 사용하여 만든 인스턴스로 데이터 베이스에서 실제 작업을 처리 할 수 있는 함수들을 지니고 있는 객체
-   <img width="373" alt="스크린샷 2021-11-19 오후 1 05 29" src="https://user-images.githubusercontent.com/80023108/142563107-8e0eb86c-69d4-4aa3-a00c-e8cf440204a8.png">
+
+<img width="373" alt="스크린샷 2021-11-19 오후 1 05 29" src="https://user-images.githubusercontent.com/80023108/142563107-8e0eb86c-69d4-4aa3-a00c-e8cf440204a8.png">
 
 
 4. 넘어온 데이터 DB에 저장
 
-   <img width="360" alt="스크린샷 2021-11-19 오후 1 08 20" src="https://user-images.githubusercontent.com/80023108/142563364-45792700-8912-4ccc-bda2-e29f12f98639.png">
+<img width="360" alt="스크린샷 2021-11-19 오후 1 08 20" src="https://user-images.githubusercontent.com/80023108/142563364-45792700-8912-4ccc-bda2-e29f12f98639.png">
 
 참고문서 : https://velog.io/@ckstn0777/Mongoose-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
